@@ -25,7 +25,7 @@
 	A laptop
 	The internet
 #Support and contact details
-	Should one have a concern, issue or idea to let known to the developer, kindly contact me 		on
+	Should one have a concern, issue or idea to let known to the developer, kindly contact me on
 	omtatahmurtallah@gmail.com
 #License
 				Copyright (c) 2019**{Murtallaj Omtatah}**
