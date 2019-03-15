@@ -13,7 +13,7 @@
 	   3. The current residence of the person
 	   4. Academic qualifications of the person
 	   5. Hobbies of the person
-	   6. Picture of the person 
+	   6. Picture of the person
 #Setup/Installation Requirements
 	* An internet source
 	* A laptop
@@ -28,4 +28,4 @@
 	Should one have a concern, issue or idea to let known to the developer, kindly contact me on
 	omtatahmurtallah@gmail.com
 #License
-				Copyright (c) 2019**{Murtallaj Omtatah}**
+				Copyright (c) 2019**{Murtallah Omtatah}**
