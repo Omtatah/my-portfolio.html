@@ -19,3 +19,14 @@ h4 {
 .class bulletin {
   text-align: center;
 }
+body, html {
+  height: 100%;
+}
+. bg {
+  background-image: image(pictures/flowery.jpg);
+  height: 100%
+  background-size: cover;
+}
+body {
+  backgorund-color: lightblue;
+}
